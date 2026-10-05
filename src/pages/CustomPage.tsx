@@ -12,7 +12,7 @@ export default function CustomPage() {
       tag="Fabrication"
       title="Custom Designs"
       description="Modifying spaces to your exact specs."
-      imageSrc="http://img.b2bpic.net/free-photo/cutting-metal-with-plasma-equipment_176420-4793.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/cutting-metal-with-plasma-equipment_176420-4793.jpg?_wi=2"
       textAnimation="slide-up"
       items={[
         {
