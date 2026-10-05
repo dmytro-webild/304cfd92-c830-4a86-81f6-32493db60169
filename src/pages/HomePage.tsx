@@ -22,7 +22,7 @@ export default function HomePage() {
         text: "Get a Quote",
         href: "/contact",
       }}
-      imageSrc="https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1791221200268-mbbxb279.jpg"
+      imageSrc="https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1791221200268-mbbxb279.jpg?_wi=1"
       textAnimation="slide-up"
     />
     </SectionErrorBoundary>
@@ -51,7 +51,7 @@ export default function HomePage() {
           title: "New Containers",
           description: "Factory fresh and clean.",
           href: "/containers",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1791221200268-mbbxb279.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1791221200268-mbbxb279.jpg?_wi=2",
         },
         {
           title: "Delivery & Transport",
@@ -63,19 +63,19 @@ export default function HomePage() {
           title: "Fabrication",
           description: "Professional welding and building.",
           href: "/custom",
-          imageSrc: "http://img.b2bpic.net/free-photo/gray-bright-yellow-warehouse-wall-made-profiled-metal-wall-background-ideas-screen-design-articles_166373-3526.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/gray-bright-yellow-warehouse-wall-made-profiled-metal-wall-background-ideas-screen-design-articles_166373-3526.jpg?_wi=1",
         },
         {
           title: "Site Prep",
           description: "Leveling and concrete pads.",
           href: "/delivery",
-          imageSrc: "http://img.b2bpic.net/free-photo/warehouse-door_23-2148098632.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/warehouse-door_23-2148098632.jpg?_wi=1",
         },
         {
           title: "Get a Quote",
           description: "Contact our experts today.",
           href: "/contact",
-          imageSrc: "http://img.b2bpic.net/free-photo/cutting-metal-with-plasma-equipment_176420-4793.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cutting-metal-with-plasma-equipment_176420-4793.jpg?_wi=1",
         },
       ]}
       textAnimation="slide-up"
