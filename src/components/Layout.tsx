@@ -42,7 +42,7 @@ export default function Layout() {
       <SiteBackgroundSlot />
       <SectionErrorBoundary name="navbar">
         <NavbarFloating
-      logo="California Container Works"
+      logo="CALIFORNIA CONTAINER WORKS CCW"
       ctaButton={{
         text: "Get a Quote",
         href: "/contact",
