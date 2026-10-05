@@ -15,7 +15,10 @@ import ContactCtaSection from './HomePage/sections/ContactCta';
 import TrustBarSection from './HomePage/sections/TrustBar';
 import WhatWeDoSection from './HomePage/sections/WhatWeDo';
 import ContainerSizesSection from './HomePage/sections/ContainerSizes';
-import ConditionComparisonSection from './HomePage/sections/ConditionComparison';export default function HomePage(): React.JSX.Element {
+import ConditionComparisonSection from './HomePage/sections/ConditionComparison';
+import WhatPeopleBuildSection from './HomePage/sections/WhatPeopleBuild';
+import HowItWorksSection from './HomePage/sections/HowItWorks';
+import WhyUsSection from './HomePage/sections/WhyUs';export default function HomePage(): React.JSX.Element {
   return (
 <>
   <HeroSection />
@@ -23,6 +26,9 @@ import ConditionComparisonSection from './HomePage/sections/ConditionComparison'
       <WhatWeDoSection />
       <ContainerSizesSection />
       <ConditionComparisonSection />
+      <WhatPeopleBuildSection />
+      <HowItWorksSection />
+      <WhyUsSection />
 
   <FeaturedCardsSection />
 
