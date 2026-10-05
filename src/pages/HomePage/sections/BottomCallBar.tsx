@@ -1,5 +1,4 @@
 import React from 'react';
-import ScrollReveal from '@/components/ui/ScrollReveal';
 import ButtonArrow from '@/components/ui/ButtonArrow';
 import { PhoneCall } from 'lucide-react';
 
