@@ -11,10 +11,18 @@ import FaqSection from './HomePage/sections/Faq';
 import SocialProofSection from './HomePage/sections/SocialProof';
 import ContactCtaSection from './HomePage/sections/ContactCta';
 
-export default function HomePage(): React.JSX.Element {
+
+import TrustBarSection from './HomePage/sections/TrustBar';
+import WhatWeDoSection from './HomePage/sections/WhatWeDo';
+import ContainerSizesSection from './HomePage/sections/ContainerSizes';
+import ConditionComparisonSection from './HomePage/sections/ConditionComparison';export default function HomePage(): React.JSX.Element {
   return (
 <>
   <HeroSection />
+      <TrustBarSection />
+      <WhatWeDoSection />
+      <ContainerSizesSection />
+      <ConditionComparisonSection />
 
   <FeaturedCardsSection />
 
