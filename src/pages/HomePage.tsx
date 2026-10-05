@@ -18,7 +18,10 @@ import ContainerSizesSection from './HomePage/sections/ContainerSizes';
 import ConditionComparisonSection from './HomePage/sections/ConditionComparison';
 import WhatPeopleBuildSection from './HomePage/sections/WhatPeopleBuild';
 import HowItWorksSection from './HomePage/sections/HowItWorks';
-import WhyUsSection from './HomePage/sections/WhyUs';export default function HomePage(): React.JSX.Element {
+import WhyUsSection from './HomePage/sections/WhyUs';
+import SitePrepPadsSection from './HomePage/sections/SitePrepPads';
+import CustomerVideoSection from './HomePage/sections/CustomerVideo';
+import BottomCallBarSection from './HomePage/sections/BottomCallBar';export default function HomePage(): React.JSX.Element {
   return (
 <>
   <HeroSection />
@@ -32,11 +35,14 @@ import WhyUsSection from './HomePage/sections/WhyUs';export default function Hom
 
   <FeaturedCardsSection />
 
+      <SitePrepPadsSection />
+      <CustomerVideoSection />
   <FaqSection />
 
   <SocialProofSection />
 
   <ContactCtaSection />
+      <BottomCallBarSection />
     </>
   );
 }

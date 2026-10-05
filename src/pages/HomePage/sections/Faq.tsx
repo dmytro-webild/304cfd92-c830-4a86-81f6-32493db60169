@@ -10,34 +10,13 @@ export default function FaqSection(): React.JSX.Element {
     <div id="faq" data-section="faq">
         <SectionErrorBoundary name="faq">
               <FaqSimpleHighlight
-          tag="Support"
-          title="Frequently Asked"
-          titleHighlight="Questions"
-          description="Answers to common shipping container inquiries."
-          textAnimation="slide-up"
-          items={[
-            {
-              question: "Where do you deliver?",
-              answer: "We serve CA, AZ, and NV.",
-            },
-            {
-              question: "Are they waterproof?",
-              answer: "Yes, our containers are wind and watertight.",
-            },
-            {
-              question: "Can I customize?",
-              answer: "Absolutely, we specialize in custom fabrication.",
-            },
-            {
-              question: "How long is delivery?",
-              answer: "Usually 3-7 business days.",
-            },
-            {
-              question: "What is the warranty?",
-              answer: "We offer durability guarantees on new units.",
-            },
-          ]}
-        />
+        tag="FAQ"
+        title="Frequently Asked"
+        titleHighlight="Questions"
+        description="Answers to common container purchasing, custom build, permit, and delivery questions."
+        textAnimation="slide-up"
+        items={[{"question":"What sizes do you sell?","answer":"We carry 20FT Standard, 40FT Standard, and 40FT High Cube containers. Custom length and specialty configurations can also be fabricated directly to order."},{"answer":"A 1-trip container is built brand new overseas and shipped with cargo just once to North America. It arrives in pristine factory condition, making it the top pick for custom living or commercial builds.","question":"What is a 1-trip container?"},{"answer":"Wind and watertight (WWT) means the container is fully sealed against rain, wind, and pests with functional gasket doors, though it may have cosmetic surface rust or minor dents from cargo service.","question":"What does wind and watertight mean?"},{"question":"Can you build exactly what I draw up?","answer":"Yes, we specialize in custom fabrication. Bring your sketches, layout ideas, or plans, and our welding team will build doors, windows, insulation, and electrical systems to match."},{"question":"Do you deliver outside the Inland Empire?","answer":"Yes, we deliver across Southern California, Arizona, and Nevada. Our experienced drivers handle tight turns and ground placement directly at your designated spot."},{"answer":"You need a level surface with adequate vertical and straight-line clearance for our tilt-bed delivery trucks. Ensure overhead limbs and wires are clear before delivery day.","question":"What do I need ready before delivery?"},{"answer":"Rules vary by city and county, so check with your local office before ordering. Permanent structures or custom inhabited builds usually require municipal permits, while standard temporary storage may not.","question":"Do I need a permit?"},{"answer":"How do I get a price? Call us directly at 951-285-6103 or submit a request online. We offer direct owner pricing with no hidden markup fees.","question":"How do I get a price?"}]}
+      />
         </SectionErrorBoundary>
       </div>
   );
