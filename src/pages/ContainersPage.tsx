@@ -16,12 +16,12 @@ export default function ContainersPage() {
         {
           name: "20ft Standard",
           price: "$3,200",
-          imageSrc: "http://img.b2bpic.net/free-photo/gray-bright-yellow-warehouse-wall-made-profiled-metal-wall-background-ideas-screen-design-articles_166373-3526.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/gray-bright-yellow-warehouse-wall-made-profiled-metal-wall-background-ideas-screen-design-articles_166373-3526.jpg?_wi=2",
         },
         {
           name: "40ft High Cube",
           price: "$4,500",
-          imageSrc: "http://img.b2bpic.net/free-photo/warehouse-door_23-2148098632.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/warehouse-door_23-2148098632.jpg?_wi=2",
         },
       ]}
     />
