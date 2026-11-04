@@ -24,7 +24,7 @@ export default function CustomerVideoSection(): React.JSX.Element {
         <ScrollReveal variant="slide-up">
           <div className="relative w-full max-w-[360px] aspect-[9/16] rounded-2xl bg-card border border-[#007bff] shadow-2xl shadow-[#007bff]/20 overflow-hidden mx-auto">
             <iframe
-              src="https://www.youtube.com/embed/WmZg0Va3hqA"
+              src="https://www.youtube.com/embed/lRxoETZCPNs"
               title="Hear It From a Customer"
               className="w-full h-full border-0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
