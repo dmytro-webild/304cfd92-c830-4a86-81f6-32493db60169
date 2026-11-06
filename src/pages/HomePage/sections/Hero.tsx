@@ -29,11 +29,12 @@ const HeroInline = () => {
         </div>
 
         <div className="w-full">
-          <div className="relative w-full rounded-2xl overflow-hidden border border-[#007bff]/40 bg-card shadow-2xl aspect-[16/10] sm:aspect-[16/10] lg:aspect-[4/3] max-h-[280px] sm:max-h-[380px] lg:max-h-[480px]">
+          <div className="relative w-full h-[300px] md:h-[450px] rounded-2xl overflow-hidden border border-[#007bff]/40 bg-card shadow-2xl">
             <img
               src="https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1793985590522-o173r5d6.jpg"
               alt="California Container Works shipping container mural"
-              className="w-full h-full object-cover object-bottom block rounded-2xl"
+              className="w-full h-full object-cover object-[center_70%] block rounded-2xl"
+              style={{ objectFit: "cover", objectPosition: "center 70%" }}
               loading="eager"
             />
           </div>
