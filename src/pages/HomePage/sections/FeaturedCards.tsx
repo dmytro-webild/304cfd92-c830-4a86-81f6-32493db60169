@@ -36,7 +36,7 @@ export default function FeaturedCardsSection(): React.JSX.Element {
               title: "Delivery & Transport",
               description: "Delivered across the Southwest.",
               href: "/delivery",
-              imageSrc: "http://img.b2bpic.net/free-photo/business-entrepreneur-man-presenting-company-statistics-using-tablet-financial-presentation_482257-4608.jpg",
+              imageSrc: "20ft-shipping-containers-delivered-desert-site.jpg",
             },
             {
               title: "Fabrication",
