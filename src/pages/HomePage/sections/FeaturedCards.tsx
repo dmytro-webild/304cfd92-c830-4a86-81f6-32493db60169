@@ -30,7 +30,8 @@ export default function FeaturedCardsSection(): React.JSX.Element {
               title: "New Containers",
               description: "Factory fresh and clean.",
               href: "/containers",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1791221200268-mbbxb279.jpg?_wi=2",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1794001106583-7h0ofqud.jpg",
+              alt: "New 20ft shipping container from California Container Works.",
             },
             {
               title: "Delivery & Transport",

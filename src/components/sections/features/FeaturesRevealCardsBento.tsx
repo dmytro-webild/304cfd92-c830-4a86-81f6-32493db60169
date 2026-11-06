@@ -8,6 +8,7 @@ type FeatureItem = {
   title: string;
   description: string;
   href: string;
+  alt?: string;
 } & ({ imageSrc: string; videoSrc?: never } | { videoSrc: string; imageSrc?: never });
 
 interface FeaturesRevealCardsBentoProps {
@@ -81,6 +82,7 @@ const FeaturesRevealCardsBento = ({ tag, title, description, primaryButton, seco
                   <ImageOrVideo
                     imageSrc={item.imageSrc}
                     videoSrc={item.videoSrc}
+                    alt={item.alt}
                     className="rounded group-hover:scale-105 transition-transform duration-500"
                   />
                 </div>
