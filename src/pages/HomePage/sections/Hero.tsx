@@ -21,7 +21,7 @@ const HeroInline = () => {
       <div className="w-content-width mx-auto flex flex-col gap-8">
         <div className="w-full rounded-lg overflow-hidden border border-[#007bff]/40 bg-card p-1">
           <img
-            src="https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1791221200269-4uflqzv1.png"
+            src="https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1793985590522-o173r5d6.jpg"
             alt="California Container Works shipping containers banner"
             className="w-full h-auto object-contain block rounded"
             loading="eager"
