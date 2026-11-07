@@ -18,7 +18,8 @@ export default function FeaturedCardsSection(): React.JSX.Element {
               title: "Custom Containers",
               description: "Tailored fabrication and modifications.",
               href: "/custom",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1791221200269-czniqet6.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1794074651947-q7j2q1fb.jpg",
+              alt: "Custom shipping container build by California Container Works.",
             },
             {
               title: "Used Containers",
