@@ -39,7 +39,8 @@ export default function FeaturedCardsSection(): React.JSX.Element {
               title: "Delivery & Transport",
               description: "Delivered across the Southwest.",
               href: "/delivery",
-              imageSrc: "20ft-shipping-containers-delivered-desert-site.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1794075301120-be5uothl.jpg",
+              alt: "Shipping container delivery and transport by California Container Works.",
             },
             {
               title: "Fabrication",
