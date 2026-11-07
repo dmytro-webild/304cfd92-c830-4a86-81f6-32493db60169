@@ -25,7 +25,8 @@ export default function FeaturedCardsSection(): React.JSX.Element {
               title: "Used Containers",
               description: "Reliable and durable units.",
               href: "/containers",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1791221200269-4uflqzv1.png",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1794075105022-6pubilks.jpg",
+              alt: "Used shipping container from California Container Works.",
             },
             {
               title: "New Containers",
