@@ -46,7 +46,8 @@ export default function FeaturedCardsSection(): React.JSX.Element {
               title: "Fabrication",
               description: "Professional welding and building.",
               href: "/custom",
-              imageSrc: "http://img.b2bpic.net/free-photo/gray-bright-yellow-warehouse-wall-made-profiled-metal-wall-background-ideas-screen-design-articles_166373-3526.jpg?_wi=1",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1794075463238-6xbgnbws.jpg",
+              alt: "Shipping container fabrication work by California Container Works.",
             },
             {
               title: "Site Prep",
